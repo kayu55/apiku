@@ -1,1 +1,5 @@
-# apiku
+## install api
+
+````
+apt install dos2unix -y && wget https://raw.githubusercontent.com/kayu55/apiku/main/api.sh && chmod +x api.sh && dos2unix api.sh && ./api.sh
+````
